@@ -69,3 +69,18 @@ Meaning:
 - Wealth: Gold is often linked to material wealth and luxury.
 - Success: It symbolizes achievement and success.
 - Wisdom: Gold can also represent wisdom and enlightenment.
+
+
+## Grey
+
+Meaning:
+- Purity: Grey symbolizes purity and innocence.
+- Clarity: It represents clarity of thought and purpose.
+- Freshness: White evokes a sense of cleanliness and freshness.
+
+## Pink
+
+Meaning:
+- Wealth: Pink is often linked to material wealth and luxury.
+- Success: It symbolizes achievement and success.
+- Wisdom: Gold can also represent wisdom and enlightenment.
